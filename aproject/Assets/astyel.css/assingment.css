@@ -1,0 +1,52 @@
+/* header */
+.header{
+    background-image: url('../Hero-bg.png');
+    height: 800px;
+    width: 2700px;
+}
+
+.text{
+    font-family: 'raleway';
+  font-weight: 500px;
+  font-size: 70px;
+  height: 800px;
+  text-align: center;
+  margin: 109px 267px 237px 120px;
+  justify-content: space-around;
+  
+  
+}
+
+/* nav styel */
+body{
+    
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list-title{
+    font-weight: 99px;
+    font-size: 50px;
+    color: #4E47FF;
+    margin: 50px 1041px 50px 150px;
+    font-family:Arial, Helvetica, sans-serif
+}
+nav ul li{
+    list-style: none;
+}
+
+
+
+.btn-styel{
+    margin: 52px 300px;
+   background-color: #4E47FF;
+  font-weight: 60px;
+  font-size: 20px;
+  color:white;
+  padding: 18px 35px 19px 43px;
+  border-radius: 15px;
+  border-color: #4E47FF;
+  border: none;
+}
