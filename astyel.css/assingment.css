@@ -323,3 +323,46 @@ nav {
 .contact-form button:hover {
     background: #F0C40F;
 }
+
+.footer {
+    text-align: center;
+    padding: 100px 0 20px 0;
+    background-color: #fafafa;
+}
+
+.footer-logo-i {
+    font-size: xx-large;
+    font-weight: 500px;
+    margin: auto;
+    margin: 0px 300px 0px 875px;
+    width: 500px;
+    text-align: right;
+    padding-bottom: 20px;
+    color: #3E5DFE;
+}
+
+.footer-text {
+    color: #676788;
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto 20px auto;
+    line-height: 24px;
+}
+
+.footer-nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.footer-nav a {
+    color: #7a7a9d;
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.3s ease;
+}
+
+.footer-nav a:hover {
+    color: #4f46e5;
+}
