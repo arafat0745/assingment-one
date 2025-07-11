@@ -122,3 +122,35 @@ nav {
     width: 403px;
     height: 328px;
 }
+.users-section-title {
+    font-weight: 700;
+    font-size: 38px;
+    text-align: center;
+}
+
+.users-container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+    border-radius: 24px;
+    background: rgba(78, 71, 255, 0.1);
+}
+
+.users-box {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.box-title {
+    font-family: inter;
+    font-weight: 700;
+    font-size: 80px;
+    color: #3E5DFE;
+}
+.box-paragraph {
+    font-weight: 400;
+    font-size: 20px;
+}
