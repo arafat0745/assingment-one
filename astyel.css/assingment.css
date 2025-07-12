@@ -326,15 +326,16 @@ nav {
 
 .footer {
     text-align: center;
-    padding: 100px 0 20px 0;
+    padding: 110px 0 20px 0;
     background-color: #fafafa;
+    
 }
 
 .footer-logo-i {
-    font-size: xx-large;
+    font-size: 50px;
     font-weight: 500px;
     margin: auto;
-    margin: 0px 300px 0px 875px;
+    margin: 0px 300px 0px 920px;
     width: 500px;
     text-align: right;
     padding-bottom: 20px;
@@ -352,8 +353,9 @@ nav {
 .footer-nav {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 20px;
     flex-wrap: wrap;
+    margin: 0px 520px 3px 715px;
 }
 
 .footer-nav a {
@@ -365,4 +367,5 @@ nav {
 
 .footer-nav a:hover {
     color: #4f46e5;
+
 }
