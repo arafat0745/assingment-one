@@ -17,8 +17,9 @@ body {
 .paragraph-color {
     color: #8C8E98;
 }
+
 .btn-top{
-    margin: 10px 10px 10px 1500px;
+     margin: 10px 10px 10px 1600px;
      justify-content: space-around;
    background-color: #4E47FF;
   font-weight: 60px;
@@ -28,7 +29,22 @@ body {
   border-radius: 15px;
   border-color: #4E47FF;
   border:none 
+  
+    
+     
 }
+  
+
+.btn-top:hover{
+    background-color: #F0C40F;
+    cursor: pointer;
+  transition: background-color 0.5s ease;
+
+}
+ .btn-right{
+    padding: 12px 36px 12px 36px;
+
+ }
 .main-button {
     font-size: 16px;
     font-weight: 500;
@@ -42,6 +58,8 @@ body {
 
 .main-button:hover {
     background-color: #F0C40F;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
 }
 
 
